@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+
+msgid "Activate Follower Notifications on Duplication"
+msgstr "Follower duplizieren"
+
+msgid "No Duplicate Followers"
+msgstr "Keine doppelten Follower"
+
+msgid "Settings"
+msgstr "Einstellungen"
