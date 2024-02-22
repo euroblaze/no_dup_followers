@@ -6,7 +6,7 @@ class ProjectProject(models.Model):
     @api.model
     def _get_duplicate_followers(self):
         Param = self.env['ir.config_parameter'].sudo()
-        return Param.get_param('duplicate_followers', '0') == '1'
+        return Param.get_param('duplicate_followers', '0') == '0'
 
     def copy(self, default=None):
         if default is None:
