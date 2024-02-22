@@ -1,6 +1,6 @@
 # Do Not Duplicate Followers on Record Duplication
 
-This module prevents followers from being duplicated when duplicating Projects and Tasks in Odoo.
+This module prevents followers from being duplicated when duplicating Projects and Tasks in PwO v15.
 
 ## Installation
 
