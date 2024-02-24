@@ -1,13 +1,35 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* no_dup_followers
+#
 msgid ""
 msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: de\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
 
-msgid "Activate Follower Duplication"
-msgstr "Follower duplizieren"
+#. module: no_dup_followers
+#: model_terms:ir.ui.view,arch_db:no_dup_followers.project_res_config_settings_view_form_inherited
+msgid "Avoid duplicating followers when duplicating records"
+msgstr ""
 
-msgid "No Duplicate Followers"
-msgstr "Keine doppelten Follower"
+#. module: no_dup_followers
+#: model:ir.model.fields,field_description:no_dup_followers.field_res_config_settings__no_duplicating_followers_project
+msgid "No Duplicating Followers Project"
+msgstr ""
 
-msgid "Settings"
-msgstr "Einstellungen"
+#. module: no_dup_followers
+#: model_terms:ir.ui.view,arch_db:no_dup_followers.project_res_config_settings_view_form_inherited
+msgid "No Duplicating followers"
+msgstr ""
+
+#. module: no_dup_followers
+#: model_terms:ir.ui.view,arch_db:no_dup_followers.project_res_config_settings_view_form_inherited
+msgid "Project Duplication Control"
+msgstr ""
+
