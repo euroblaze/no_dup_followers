@@ -1,20 +1,11 @@
-# Do Not Duplicate Followers on Record Duplication
+# No Duplicate Followers
 
-This module prevents followers from being duplicated when duplicating Projects and Tasks in PwO v15.
-
-## Installation
-
-To install this module, simply copy it into your Odoo addons directory and update the module list in the Odoo Apps menu.
+This module allows administrators to control whether followers are duplicated along with the project and task records in PwO.
 
 ## Configuration
 
-Use the Technical > System Parameters menu to set the `duplicate_followers` parameter:
-
-- `1`: Followers will be duplicated when records are duplicated.
-- `0`: Followers will not be duplicated.
-
-By default, followers are not duplicated.
+After installing this module, go to Settings and look for "No Duplicate Followers Settings" under the General Settings tab. There, you can activate or deactivate follower notifications upon duplication.
 
 ## Usage
 
-After installation and configuration, the module will automatically apply the chosen behavior when duplicating Projects and Tasks.
+When the setting is activated, duplicating a project will not duplicate its followers, preventing automatic email notifications to the duplicated project's followers.

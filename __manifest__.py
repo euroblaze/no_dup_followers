@@ -7,5 +7,7 @@
     'category': 'Project',
     'version': '0.1',
     'depends': ['base', 'project'],
-    'data': [    ],
+    'data': [
+        'views/res_config_settings_views.xml',
+    ],
 }
