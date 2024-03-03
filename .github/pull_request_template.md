@@ -33,12 +33,6 @@ Following test-procedure was adapted.
 2. ..
 3. ..
 
-**UC3**
-
-Following test-procedure was adapted.
-
-1. ..
-2. ..
-3. ..
-
 > Add more use-cases if applicable.
+
+### Screenshots
