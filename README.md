@@ -1,4 +1,4 @@
-# ! No Duplicate Followers
+# No Duplicate Followers
 
 This module allows administrators to control whether followers are duplicated along with the project and task records in PwO.
 
